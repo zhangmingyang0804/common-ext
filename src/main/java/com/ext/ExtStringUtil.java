@@ -1,5 +1,8 @@
 package com.ext;
 
+/**
+ * 字符串工具类
+ */
 public class ExtStringUtil {
     /**
      * 判断字符串为空
